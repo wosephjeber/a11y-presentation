@@ -1,0 +1,13 @@
+{
+  "name": "a11y-presentation",
+  "version": "1.0.0",
+  "description": "Lightning talk deck on a11y",
+  "main": "index.js",
+  "author": "Joseph Weber",
+  "devDependencies": {
+    "mdx-deck": "^1.7.7"
+  },
+  "scripts": {
+    "start": "mdx-deck deck.mdx"
+  }
+}
